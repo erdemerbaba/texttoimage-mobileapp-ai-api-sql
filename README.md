@@ -1,7 +1,4 @@
-# DiaryToPicture_Mobile_App_AI_DB
 below pictures shows the last version of this repository, due to avoid any copyright violance I put first version of this mobile app.
 
-![5](https://github.com/user-attachments/assets/4e261acc-efe9-4e6c-8e56-1464a408adf1)
-![55](https://github.com/user-attachments/assets/cd81b805-020a-4d52-a7b5-f6e6a01102f9)
-![555](https://github.com/user-attachments/assets/44cf61b7-295e-4a7d-8c37-067181abc476)
-![5555](https://github.com/user-attachments/assets/c1b178b5-d7a1-40aa-a90f-d5ac31bb13b4)
+<img width="1080" height="1920" alt="1imagera" src="https://github.com/user-attachments/assets/ad623b42-b556-4817-8a10-e0b9df00f7f3" />
+<img width="1080" height="1920" alt="2rendera" src="https://github.com/user-attachments/assets/5a066187-e004-4c25-8075-5fe2fceeb316" />
