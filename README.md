@@ -1,5 +1,6 @@
  # End to end Mobile Product Lifecycle
 To get started with building a sustainable mobile application business as a solopreneur, this report outlines a strategic approach for managing, developing, and monetizing a Kotlin-based Android application. From ideation through deployment, the objective is to ship a Minimum Viable Product (MVP) capable of generating revenue through ads and in-app purchases, supported by a robust CI/CD pipeline and guided by product-market fit. 
+(current repository include first version of the project due to copyright policies)
 
 
 <table>
